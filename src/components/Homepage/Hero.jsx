@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="mt-[5rem] lg:mt-[6rem] max-w-7xl mx-auto px-4 md:px-0">
       <div className="flex justify-center">
-        <h1 className="text-4xl md:text-6xl lg:text-7xl text-center lg:leading-[72px] w-[90%] lg:w-[50%] font-medium">
+        <h1 className="text-4xl md:text-6xl lg:text-7xl text-center lg:leading-[72px] w-full lg:w-[50%] font-medium">
           Virtuals build tools{" "}
           <span className="bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text font-medium">
             for developers

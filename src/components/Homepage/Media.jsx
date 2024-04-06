@@ -11,7 +11,7 @@ const Media = () => {
         muted
         className="w-1/2 rounded-lg border-2 border-orange-500 "
       >
-        <source src={VideoOne} type="video/mp4" />
+        <source src={VideoTwo} type="video/mp4" />
       </video>
       <video
         loop
@@ -19,7 +19,7 @@ const Media = () => {
         muted
         className="w-1/2 rounded-lg border-2 border-orange-500"
       >
-        <source src={VideoTwo} type="video/mp4" />
+        <source src={VideoOne} type="video/mp4" />
       </video>
     </div>
   );
