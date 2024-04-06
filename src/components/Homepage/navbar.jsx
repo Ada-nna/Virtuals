@@ -20,11 +20,11 @@ const navbar = () => {
     <div
       className={`sticky top-0 z-10 ${
         isSticky ? "bg-[#1a1a1a] opacity-90" : ""
-      } flex justify-between px-4 lg:px-[100px] py-3 lg:py-5 items-center border-b border-neutral-800`}
+      } flex justify-between px-2 lg:px-2 py-3 lg:py-5 items-center border-b border-neutral-800`}
     >
       <div className="flex items-center gap-x-2">
-        <img src={Logo} className="w-[3rem] lg:w-[4rem]" />
-        <h1 className="text-[24px] lg:text-[30px]">Virtuals</h1>
+        <img src={Logo} className="w-[2rem] lg:w-[4rem]" />
+        <h1 className="text-[20px] lg:text-[30px]">Virtuals</h1>
       </div>
       <ul className="lg:flex text-[16px] gap-x-6 items-center hidden">
         <li>Features</li>

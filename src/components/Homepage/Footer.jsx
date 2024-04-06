@@ -3,7 +3,7 @@ import { FooterLinks } from "./Footerlinks";
 
 const Footer = () => {
   return (
-    <footer className="flex flex-col lg:flex-row lg:justify-between mt-[5rem] lg:mt-[6rem] max-w-7xl mx-auto md:px-0 pl-[32%]">
+    <footer className="grid grid-cols-2 lg:grid-cols-3 gap-4 justify-between mt-[5rem] lg:mt-[6rem] max-w-7xl mx-auto place-items-center">
       {FooterLinks.map((section) => (
         <div key={section.title} className="mb-3 lg:mb-0">
           <h3 className="mb-[1.5rem] text-[20px] font-semibold tracking-wide">{section.title}</h3>

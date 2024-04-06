@@ -4,7 +4,7 @@ import VideoTwo from "../../assets/video2.mp4";
 
 const Media = () => {
   return (
-    <div className="flex justify-center max-w-7xl mx-auto mt-[5rem] lg:mt-[6rem] md:px-0 px-4 gap-2 lg:gap-5 ">
+    <div className="flex justify-center max-w-7xl mx-auto mt-[5rem] lg:mt-[6rem] md:px-6 px-4 gap-2 lg:gap-5 ">
       <video
         loop
         autoPlay

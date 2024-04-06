@@ -35,7 +35,7 @@ const Testimonials = () => {
         </span>
       </h1>
 
-      <div className="mt-[3rem] lg:mt-[4rem] grid lg:grid-cols-3 lg:gap-10 gap-4">
+      <div className="mt-[3rem] lg:mt-[4rem] grid lg:grid-cols-3 md:px-6 px-4 lg:gap-6 gap-4">
         <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] p-[2.8rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
           <TestimonialCards
             text="I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations."

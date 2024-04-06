@@ -133,7 +133,7 @@ const Pricing = () => {
     setselectedSubscriptionPlan("Yearly");
   }
   return (
-    <div className="mt-[5rem] lg:mt-[6rem] max-w-7xl mx-auto md:px-0 px-4">
+    <div className="mt-[5rem] lg:mt-[6rem] max-w-7xl mx-auto md:px-6 px-4">
       <div className="lg:flex justify-between items-center">
         <h1 className="text-[35px] lg:text-6xl text-center">
           Subscript{""}
