@@ -62,7 +62,7 @@ const Testimonials = () => {
         </div>
         <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] p-[2.8rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
           <TestimonialCards
-            text="Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!"
+            text="Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible."
             image={Image4}
             name="Ronee Brown"
             organization="Fusion Dynamics"
