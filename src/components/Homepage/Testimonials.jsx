@@ -52,7 +52,7 @@ const Testimonials = () => {
             organization="Blue Horizon Technologies"
           />
         </div>
-        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] p-[2.8rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
+        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] p-[2.4rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
           <TestimonialCards
             text="Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone."
             image={Image3}
