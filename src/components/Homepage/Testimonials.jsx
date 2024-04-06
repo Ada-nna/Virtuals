@@ -28,7 +28,7 @@ export const TestimonialCards = ({ text, image, name, organization }) => {
 const Testimonials = () => {
   return (
     <div className="mt-[5rem] lg:mt-[6rem] max-w-7xl mx-auto md:px-0 px-4 border-b border-neutral-800 pb-[7rem]">
-      <h1 className="text-[35px] lg:text-6xl text-center leading-[46px] lg:leading-none">
+      <h1 className="text-[35px] lg:text-6xl text-center">
         What People{" "}
         <span className="bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text">
           Are Saying
@@ -54,7 +54,7 @@ const Testimonials = () => {
         </div>
         <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] p-[2.8rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
           <TestimonialCards
-            text="Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service."
+            text="Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone."
             image={Image3}
             name="David Johnson"
             organization="Quantum Innovations"
