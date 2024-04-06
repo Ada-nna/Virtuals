@@ -36,7 +36,7 @@ const Testimonials = () => {
       </h1>
 
       <div className="mt-[3rem] lg:mt-[4rem] grid lg:grid-cols-3 md:px-6 px-4 lg:gap-6 gap-4">
-        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] p-[2.8rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
+        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] p-[2.4rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
           <TestimonialCards
             text="I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations."
             image={Image1}
@@ -44,7 +44,7 @@ const Testimonials = () => {
             organization="Stellar Solutions"
           />
         </div>
-        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] lg:h-[18rem] p-[2.8rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
+        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] lg:h-[18rem] p-[2.4rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
           <TestimonialCards
             text="I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life."
             image={Image2}
@@ -60,7 +60,7 @@ const Testimonials = () => {
             organization="Quantum Innovations"
           />
         </div>
-        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] p-[2.8rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
+        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] p-[2.4rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
           <TestimonialCards
             text="Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible."
             image={Image4}
@@ -68,7 +68,7 @@ const Testimonials = () => {
             organization="Fusion Dynamics"
           />
         </div>
-        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] lg:h-[18rem] p-[2.8rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
+        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] lg:h-[18rem] p-[2.4rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
           <TestimonialCards
             text="I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results."
             image={Image5}
@@ -76,7 +76,7 @@ const Testimonials = () => {
             organization="Visionary Creations"
           />
         </div>
-        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] p-[2.8rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
+        <div className="w-full sm:w-1/2 lg:w-[25rem] h-[20rem] p-[2.4rem] lg:p-[3.2rem] border border-neutral-800 rounded-xl bg-[#171717]">
           <TestimonialCards
             text="The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future."
             image={Image6}
